@@ -11,6 +11,7 @@
 🚀 I’m currently working on:
 - A hobby web platform with authentication, course management, and role-based access
 - Implementing a limited seat feature and secure **JWT-based API** integration
+- Post-Forum web, which will allow users to post and viewers can comment on that post
 
 🔧 I love solving problems, writing clean and scalable code, and continuously learning new technologies.
 
