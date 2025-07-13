@@ -1,6 +1,21 @@
 # 💫 About Me:
 👋 Hi, I'm Md Tawfiquzzaman — a passionate Full Stack Web Developer and Software Engineer who thrives on turning complex problems into elegant, scalable solutions. I believe that code has the power to transform ideas into reality and make a meaningful impact in the world. With a deep love for learning and building, I constantly push myself beyond comfort zones to grow as a developer and as a person.<br><br>Driven by curiosity and fueled by ambition, I strive to create technology that not only works flawlessly but also empowers others. Whether it's crafting intuitive user interfaces, architecting powerful backend systems, or collaborating on impactful projects, I approach every challenge with enthusiasm and purpose.<br><br>Let's build something extraordinary — one line of code at a time 🚀
 
+🎓 I hold a degree in **Computer Science and Engineering**, majoring in **Software Engineering**, from **Universiti Teknologi Malaysia (UTM)**.
+
+💻 My expertise includes building responsive, dynamic web applications using:
+- **React**, **Tailwind CSS**, and **JavaScript** for front-end
+- **Node.js**, **Express.js**, and **MongoDB** for back-end
+- **Firebase** for authentication and real-time databases
+
+🚀 I’m currently working on:
+- A hobby web platform with authentication, course management, and role-based access
+- Implementing a limited seat feature and secure **JWT-based API** integration
+
+🔧 I love solving problems, writing clean and scalable code, and continuously learning new technologies.
+
+📫 I'm actively seeking full-time opportunities and collaborations in **web development** and **software engineering**. Let’s connect and build something great!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdtawfiquzzaman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tawfiquzzaman1909@gmail.com) 
@@ -20,5 +35,20 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tawfiquzzaman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠️ Skills
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" /> HTML5
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" /> CSS3
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" /> JavaScript
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" /> ReactJS
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40" /> Flutter
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/512px-Android_robot.svg.png" alt="Android" width="40" /> Android
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" /> Java
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
